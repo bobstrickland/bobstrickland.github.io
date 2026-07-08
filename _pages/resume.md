@@ -29,64 +29,20 @@ Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%2
 
 ## Technical Skills
 
-|
-|
-|
-|
----
-|
----
-|
-|
-**
-Languages: 
-**
-|
- Java, Python, JavaScript, SQL, C/C++, Perl, COBOL
-|
-|
-**
-Frameworks: 
-**
-|
- Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs
-|
-|
-**
-Frontend: 
-**
-|
- JSP, JavaScript, jQuery, Bootstrap, Thymeleaf, HTML, AJAX, JSF
-|
-|
-**
-Cloud & DevOps: 
-**
-|
- AWS (Lambda, CloudFormation, Elastic Beanstalk, S3, EC2, serverless Valkey), Docker, Kubernetes, CI/CD, Jenkins, Git, Maven, Checkmarx, YAML
-|
-|
-**
-Databases: 
-**
-|
- Oracle, IBM DB2, MySQL, PostgreSQL, SQL Server
-|
-|
-**
-Security: 
-**
-|
- MFA / TOTP (RFC-based implementation), Active Directory integration, FIPS 140-2 encryption, OFAC sanctions screening
-|
-|
-**
-Tools & Other: 
-**
-|
- JIRA, JUnit, JSON/XML, Web Services (SOAP/REST), SFTP/FTPS
-|
-
+** Languages: **
+Java, Python, JavaScript, SQL, C/C++, Perl, COBOL
+** Frameworks: **
+Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs
+** Frontend: **
+JSP, JavaScript, jQuery, Bootstrap, Thymeleaf, HTML, AJAX, JSF
+** Cloud & DevOps: **
+AWS (Lambda, CloudFormation, Elastic Beanstalk, S3, EC2, serverless Valkey), Docker, Kubernetes, CI/CD, Jenkins, Git, Maven, Checkmarx, YAML
+** Databases: **
+Oracle, IBM DB2, MySQL, PostgreSQL, SQL Server
+** Security: **
+MFA / TOTP (RFC-based implementation), Active Directory integration, FIPS 140-2 encryption, OFAC sanctions screening
+** Tools & Other: **
+JIRA, JUnit, JSON/XML, Web Services (SOAP/REST), SFTP/FTPS
 ---
 
 ## Experience
