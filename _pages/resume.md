@@ -26,6 +26,7 @@ Certifications
 
 AWS Certified Developer -- Associate (DVA-C02) • Issued April 2026 •
 Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aae42af7-29f6-4ca6-af8f-7603ed9abcdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Technical Skills
 
