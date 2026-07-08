@@ -6,7 +6,9 @@ description: >-
   for federal healthcare and financial services.
 github_username: bobstrickland
 repository: "bobstrickland/bobstrickland.github.io"
-
+include:
+  - _pages
+  
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
