@@ -80,7 +80,7 @@ supported code security scans with Checkmarx.
 production failover tests.
 
 ### Senior Software Developer, METHODS Technology Solutions, Inc.
-* Nov 2008 -- Dec 2011 *  
+**Nov 2008 -- Dec 2011**  
 • Re-architected the Louisiana Racing Commission system, migrating
 from client-server to a web-based platform for improved accessibility
 and scalability.  
@@ -95,7 +95,7 @@ entirely from client requirements; participated in requirements
 workshops with clients, and worked on DB2 database design.
 
 ### Software Developer II / Java Developer, CACI / EVenture Technologies
-* Oct 2003 -- Nov 2008 *  
+**Oct 2003 -- Nov 2008**  
 • Converted PL/SQL stored procedures to Java-based logic, modernizing
 backend functionality across multiple DoD systems.  
 • Enhanced NROWS system with admin interfaces (Java Servlets/JDBC) and
@@ -106,7 +106,7 @@ Oracle Lite using Crypto++; designed automated tool for digitally
 signed XML exchange over secure HTTPS services.
 
 ### Programmer/Analyst I, Whitney National Bank
-* Aug 1999 -- Oct 2003 *  
+**Aug 1999 -- Oct 2003**  
 • Performed enhancement and maintenance on the bank\'s production wire
 transfer system (COBOL II, CICS, AIX, OpenVMS), including OFAC
 sanctions list screening to flag and prevent transfers to prohibited
@@ -114,14 +114,14 @@ entities.
 • Built several applications from scratch to automate account reconciliation, and automated secure file transmission for reconciliation processes using Python and PGP encryption.
 
 ### Programmer/Analyst, U.S. Marine Corps
-* Mar 1990 -- Jun 1994 *  
+**Mar 1990 -- Jun 1994**  
 • Developed and implemented a prototype system in COBOL/CICS for online updating of central manpower and financial tables used Marine Corps--wide; awarded the Navy Achievement Medal for innovation.  
 
 ---
 
 ## Graduate Security Research
 ### Master\'s Thesis Research, Computer Science
-** 2015 ** 
+**2015** 
 Implemented a proof-of-concept Windows kernel mode driver exploiting Direct Memory Access (DMA) to locate and monitor the system keystroke buffer without CPU involvement, bypassing contemporary anti-malware software. Captured keystrokes were encrypted and exfiltrated to a remote system entirely from GPU memory. Developed a companion detection tool using the PCI bus to inspect video card memory from a CPU-bound process, exposing GPU-resident malware with identified performance mitigations.
 Degree not completed due to a family medical emergency.
 [View research on GitHub](https://github.com/bobstrickland/KMDFCudaLogger)
