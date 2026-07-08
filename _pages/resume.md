@@ -37,26 +37,27 @@ Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%2
 
 ## Technical Skills
 
-** Languages: **  
+**Languages:**  
 Java, Python, JavaScript, SQL, C/C++, Perl, COBOL  
-** Frameworks: **  
+**Frameworks:**  
 Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs  
-** Frontend: **  
+**Frontend:**  
 JSP, JavaScript, jQuery, Bootstrap, Thymeleaf, HTML, AJAX, JSF  
-** Cloud & DevOps: **  
+**Cloud & DevOps:**  
 AWS (Lambda, CloudFormation, Elastic Beanstalk, S3, EC2, serverless Valkey), Docker, Kubernetes, CI/CD, Jenkins, Git, Maven, Checkmarx, YAML  
-** Databases: **  
+**Databases:**  
 Oracle, IBM DB2, MySQL, PostgreSQL, SQL Server  
-** Security: **  
+**Security:**  
 MFA / TOTP (RFC-based implementation), Active Directory integration, FIPS 140-2 encryption, OFAC sanctions screening  
-** Tools & Other: **  
+**Tools & Other:**  
 JIRA, JUnit, JSON/XML, Web Services (SOAP/REST), SFTP/FTPS  
+
 ---
 
 ## Experience
 ### Web Developer III (Full Stack), Carelon Federal Services
 **Jan 2012 -- Feb 2026**  
-Lead full-stack developer for Military One Source (MOS), a federal platform serving 3M+ users seeking mental health and insurance claim services.
+Lead full-stack developer for Military One Source (MOS), a federal platform serving 3M+ users seeking mental health and insurance claim services.  
 • Developed Federal OutreachConnect, a full-stack Spring Boot system
 using Spring Security (Active Directory integration), Hibernate, and
 JPA, with JSP and JavaScript frontend.  
@@ -110,7 +111,7 @@ signed XML exchange over secure HTTPS services.
 • Performed enhancement and maintenance on the bank\'s production wire
 transfer system (COBOL II, CICS, AIX, OpenVMS), including OFAC
 sanctions list screening to flag and prevent transfers to prohibited
-entities.
+entities.  
 • Built several applications from scratch to automate account reconciliation, and automated secure file transmission for reconciliation processes using Python and PGP encryption.
 
 ### Programmer/Analyst, U.S. Marine Corps
@@ -130,5 +131,6 @@ Degree not completed due to a family medical emergency.
 
 ## Education
 
-B.S., Computer Science (Minor in Accounting) • University of New Orleans
+B.S., Computer Science (Minor in Accounting) • University of New Orleans  
+
 Certificate, COBOL Programming • Computer Sciences School, Quantico, VA
