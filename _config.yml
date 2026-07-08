@@ -1,0 +1,37 @@
+title: Robert Strickland
+subtitle: Java Developer | AWS Certified | Security Researcher
+email: bob.strickland@protonmail.com
+description: >-
+  Full-stack Java developer with 25+ years building secure systems
+  for federal healthcare and financial services.
+github_username: bobstrickland
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Robert Strickland"
+  location: "Lawrenceville, GA"
+  email: "bob.strickland@protonmail.com"
+  github: "bobstrickland"
+  linkedin: "your-linkedin-username-here"
+
+permalink: /:categories/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
