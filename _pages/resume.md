@@ -123,8 +123,8 @@ entities.
 ## Graduate Security Research
 ### Master\'s Thesis Research, Computer Science
 **2015** 
-Implemented a proof-of-concept Windows kernel mode driver exploiting Direct Memory Access (DMA) to locate and monitor the system keystroke buffer without CPU involvement, bypassing contemporary anti-malware software. Captured keystrokes were encrypted and exfiltrated to a remote system entirely from GPU memory. Developed a companion detection tool using the PCI bus to inspect video card memory from a CPU-bound process, exposing GPU-resident malware with identified performance mitigations.
-Degree not completed due to a family medical emergency.
+Implemented a proof-of-concept Windows kernel mode driver exploiting Direct Memory Access (DMA) to locate and monitor the system keystroke buffer without CPU involvement, bypassing contemporary anti-malware software. Captured keystrokes were encrypted and exfiltrated to a remote system entirely from GPU memory. Developed a companion detection tool using the PCI bus to inspect video card memory from a CPU-bound process, exposing GPU-resident malware with identified performance mitigations.  
+Degree not completed due to a family medical emergency.  
 [View research on GitHub](https://github.com/bobstrickland/KMDFCudaLogger)
 
 ---
