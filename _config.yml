@@ -5,6 +5,7 @@ description: >-
   Full-stack Java developer with 25+ years building secure systems
   for federal healthcare and financial services.
 github_username: bobstrickland
+repository: "bobstrickland/bobstrickland.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
