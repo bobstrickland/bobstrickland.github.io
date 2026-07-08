@@ -4,12 +4,14 @@ permalink: /resume/
 ---
 [Download Resume (PDF)](/assets/files/Strickland_Robert_Resume.pdf){: .btn .btn--primary}
 ---
+
 # Robert Strickland
 
 703-945-0592 • <bob.strickland@protonmail.com> • Lawrenceville, GA
 
 [*github.com/bobstrickland*](https://github.com/bobstrickland)
 ---
+
 ## Summary
 Full-stack Java enterprise developer with 25+ years building secure,
 large-scale systems for federal healthcare and financial services. Deep
@@ -21,6 +23,7 @@ of deep legacy system knowledge, financial and federal compliance
 experience, and current cloud architecture skills---ideal for teams
 modernizing mission-critical applications.
 ---
+
 ## Certifications
 [AWS Certified Developer -- Associate (DVA-C02) • Issued April 2026 •
 Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
@@ -29,19 +32,19 @@ Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%2
 
 ## Technical Skills
 
-** Languages: **
+** Languages: **  
 Java, Python, JavaScript, SQL, C/C++, Perl, COBOL
-** Frameworks: **
+** Frameworks: **  
 Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs
-** Frontend: **
+** Frontend: **  
 JSP, JavaScript, jQuery, Bootstrap, Thymeleaf, HTML, AJAX, JSF
-** Cloud & DevOps: **
+** Cloud & DevOps: **  
 AWS (Lambda, CloudFormation, Elastic Beanstalk, S3, EC2, serverless Valkey), Docker, Kubernetes, CI/CD, Jenkins, Git, Maven, Checkmarx, YAML
-** Databases: **
+** Databases: **  
 Oracle, IBM DB2, MySQL, PostgreSQL, SQL Server
-** Security: **
+** Security: **  
 MFA / TOTP (RFC-based implementation), Active Directory integration, FIPS 140-2 encryption, OFAC sanctions screening
-** Tools & Other: **
+** Tools & Other: **  
 JIRA, JUnit, JSON/XML, Web Services (SOAP/REST), SFTP/FTPS
 ---
 
@@ -108,15 +111,17 @@ Lead full-stack developer for Military One Source (MOS), a federal platform serv
 ### Programmer/Analyst, U.S. Marine Corps
 *Mar 1990 -- Jun 1994*
 > • Developed and implemented a prototype system in COBOL/CICS for online updating of central manpower and financial tables used Marine Corps--wide; awarded the Navy Achievement Medal for innovation.
+---
 
 ## Graduate Security Research
-**Master\'s Thesis Research, Computer Science** -- 2015*
+### Master\'s Thesis Research, Computer Science
+*2015*
 Implemented a proof-of-concept Windows kernel mode driver exploiting Direct Memory Access (DMA) to locate and monitor the system keystroke buffer without CPU involvement, bypassing contemporary anti-malware software. Captured keystrokes were encrypted and exfiltrated to a remote system entirely from GPU memory. Developed a companion detection tool using the PCI bus to inspect video card memory from a CPU-bound process, exposing GPU-resident malware with identified performance mitigations.
 Degree not completed due to a family medical emergency.
 [View research on GitHub](https://github.com/bobstrickland/KMDFCudaLogger)
+---
 
 ## Education
 
 B.S., Computer Science (Minor in Accounting) • University of New Orleans
-
 Certificate, COBOL Programming • Computer Sciences School, Quantico, VA
