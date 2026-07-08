@@ -2,6 +2,8 @@
 title: "Resume"
 permalink: /resume/
 ---
+[Download Resume (PDF)](/assets/files/Strickland_Robert_Resume.pdf)
+
 Robert Strickland
 
 703-945-0592 • <bob.strickland@protonmail.com> • Lawrenceville, GA
