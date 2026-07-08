@@ -26,7 +26,9 @@ modernizing mission-critical applications.
 Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aae42af7-29f6-4ca6-af8f-7603ed9abcdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
+
 ## Technical Skills
+
 |
 |
 |
@@ -36,37 +38,51 @@ Credential ID: ea7928eeb9c44ae79bca7fb42c0e9cbe](/assets/files/AWS%20Certified%2
 ---
 |
 |
-**Languages: **
+**
+Languages: 
+**
 |
 Java, Python, JavaScript, SQL, C/C++, Perl, COBOL
 |
 |
-**Frameworks: **
+**
+Frameworks: 
+**
 |
 Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs
 |
 |
-**Frontend: **
+**
+Frontend: 
+**
 |
 JSP, JavaScript, jQuery, Bootstrap, Thymeleaf, HTML, AJAX, JSF
 |
 |
-**Cloud & DevOps: **
+**
+Cloud & DevOps: 
+**
 |
 AWS (Lambda, CloudFormation, Elastic Beanstalk, S3, EC2, serverless Valkey), Docker, Kubernetes, CI/CD, Jenkins, Git, Maven, Checkmarx, YAML
 |
 |
-**Databases: **
+**
+Databases: 
+**
 |
 Oracle, IBM DB2, MySQL, PostgreSQL, SQL Server
 |
 |
-**Security: **
+**
+Security: 
+**
 |
 MFA / TOTP (RFC-based implementation), Active Directory integration, FIPS 140-2 encryption, OFAC sanctions screening
 |
 |
-**Tools & Other: **
+**
+Tools & Other: 
+**
 |
 JIRA, JUnit, JSON/XML, Web Services (SOAP/REST), SFTP/FTPS
 |
