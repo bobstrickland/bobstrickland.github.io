@@ -14,7 +14,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-minimal_mistakes_skin: "catppuccin_latte"
+minimal_mistakes_skin: "catppuccin_mocha"
 
 author:
   name: "Robert Strickland"
