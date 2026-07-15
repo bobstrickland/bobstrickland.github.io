@@ -3,6 +3,22 @@ title: "Projects"
 permalink: /projects/
 ---
 
+
+
+## AI Document Research Agent
+
+[GitHub Repository](https://github.com/bobstrickland/AIDocumentResearchAgent)
+
+This project explores what it takes to build a genuinely *autonomous* AI agent — one that decides its own tool-use path in pursuit of a goal, rather than following a hard-coded workflow. Given a research question, the agent should be able to:
+
+- Search a private document collection via retrieval-augmented generation (RAG)
+- Decide whether it has enough information, or needs to search again with refined queries
+- Synthesize an answer, citing which documents it drew from
+- Save its findings for later retrieval
+- Support natural follow-up questions within a session
+
+The project is also a deliberate exercise in modern backend architecture — Spring Boot, PostgreSQL, vector search, containerization, and CI/CD — applied to a genuinely current problem domain (AI agent design) rather than a toy example.
+
 ## Japa — Android Mantra Counter
 
 [GitHub Repository](https://github.com/bobstrickland/Japa)
