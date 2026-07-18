@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-I began learning to program at age 11 on an Apple ][+ back in 1982. I used to ride my bicycle twice a week halfway across the tiny town we lived in to visit the library, which had a computer available to the public.  I would often stay there from opening until the librarian would kick shoo me out 30 minutes before closing time.
+I began learning to program at age 11 on an Apple ][+ back in 1982. I used to ride my bicycle twice a week halfway across the tiny town we lived in to visit the library, which had a computer available to the public.  I would often stay there from opening until the librarian would shoo me out 30 minutes before closing time.
 
 At 19 I enlisted in the Marine Corps, learned COBOL, and did mainframe programming for the next few years.
 - Spent my first year in Okinawa, Japan building software with dBase III+ and FoxPro
