@@ -1,4 +1,10 @@
-# The Nailgun Wars
+---
+title: "The Nailgun Wars"
+date: 2026-07-28
+categories: [fiction]
+tags: [carpentry, ai, fiction]
+excerpt: "The Era of Nailguns"
+---
 
 The first Big Carpentry firms to announce their "Nailgun First" hiring policy did so with the breathless confidence of prophets. Sawyer & Hatch, the largest residential contractor on the eastern seaboard, sent a memo to every hiring manager: no applicant would be considered without attesting to five-plus years of nailgun experience. Never mind that pneumatic nailguns had only been widely available for six years. Never mind that half the senior framers in the industry had built entire subdivisions with hammers and had callused, steady hands that could set a sixteen-penny nail in two blows without splitting the stud. The attestation requirement went out anyway, a strange bureaucratic fiction that everyone understood was less about the tool and more about a mood - a mood that said the old way of building was over, and if you couldn't prove fluency in the new way, you were already obsolete.
 
